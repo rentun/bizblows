@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Bizblows" steamworkshopid="2853682254" corepackage="false" modversion="1.0.4" gameversion="0.18.15.1" installtime="1661444554" expectedhash="0EEC2C7B3C85CDD5CDD58F3A8626F0EB">
+  <Submarine file="%ModDir%/Bizblows.sub" />
+</contentpackage>
